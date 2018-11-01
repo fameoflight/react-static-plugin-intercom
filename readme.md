@@ -10,12 +10,12 @@ In an existing React-Static site run:
 $ yarn add react-static-plugin-intercom
 ```
 
-Then add the plugin to the default export of your `static.config.js` and specify your [Google Analytics traking ID](https://support.google.com/analytics/answer/7476135?hl=en) inside an options variable:
+Then add the plugin to the default export of your `static.config.js` and specify your `Intercom APP ID` inside an options variable:
 
 ```javascript
 export default {
   plugins: [
-    ["react-static-plugin-intercom", {id: 'GOOGLE ANALYTICS ID'}]
+    ["react-static-plugin-intercom", {id: 'Intercom APP ID'}]
   ]
 };
 ```
