@@ -1,6 +1,6 @@
 {
   "name": "react-static-plugin-intercom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React-Static plugin that adds Google Analytics tracking",
   "repository": "https://github.com/fameoflight/react-static-plugin-intercom",
   "main": "lib.js",
